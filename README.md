@@ -1,4 +1,4 @@
-# Instagram Reels Clone (Vanilla JavaScript)
+# Instagram Reels Clone (JavaScript)
 
 A **frontend Instagram Reels–style short video feed** built using **Vanilla JavaScript**, focusing on **data-driven UI rendering, state management, and event delegation** without any frameworks.
 
