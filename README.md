@@ -19,7 +19,7 @@ This project simulates core social-media interactions such as **likes, follow/un
 ---
 
 
-## 🛠️ Tech Stack
+## 🛠️ TechnologyStack
 
 * **HTML5** – Structure
 * **CSS3 / SCSS** – Styling & layout
